@@ -16,20 +16,19 @@ Because when everything else falls apart, the only question worth answering is: 
 
 And *grain* answers, without fanfare: *yes. once more.*
 
-⸻
+**Philosophy**
 
-Let me know if you want a version that feels even more like Kafka journaling in vim or if you’d prefer a poetic Greek tragedy twist.
+Grain isn’t built for optimization—it’s built for intention. It treats focus as a **ritual**, not a race.
 
-## Philosophy
+At its core is a quiet loop:
 
-Grain is designed to be a **ritual**, not just another productivity tool. It encourages a simple loop:
+1. **Log:** Record your study or break credits with minimal friction.
 
-1.  **Log:** Quickly record study or break credits.
-2.  **Read:** Review your progress for the day or week.
-3.  **Reflect:** Use the data to guide your focus and rest.
+2. **Read:** Review your daily or weekly patterns.
 
-No cloud sync, no complex features, just your local data and clean TUI feedback.
+3. **Reflect:** Adjust your rhythm—when to lean in, and when to pause.
 
+No sync, no noise. Just your effort, your data, and a clean terminal interface that stays out of your way.
 ## Installation
 
 1.  **Ensure Go is installed:** You need Go (version 1.18 or later recommended). Check with `go version`.
@@ -187,4 +186,4 @@ All application data is stored locally within the `~/.grain/` directory:
 
 ---
 
-Enjoy the calm focus! 
+*Study. Pause. Repeat.*

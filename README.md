@@ -36,11 +36,10 @@ No sync, no noise. Just your effort, your data, and a clean terminal interface t
 ## Installation
 
 1.  **Ensure Go is installed:** You need Go (version 1.18 or later recommended). Check with `go version`.
-2.  **Clone the repository (replace with actual URL when available):**
+2.  **Clone the repository:**
     ```bash
-    # git clone https://github.com/your-username/grain.git 
-    # cd grain
-    # For now, assume you are in the project directory
+    # git clone https://github.com/CodeDreamer06/GrainCLI.git 
+    # cd grainCLI
     ```
 3.  **Build the binary:**
     ```bash

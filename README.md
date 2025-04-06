@@ -1,20 +1,24 @@
 # Why I built grain
-*(and why it matters, even if nothing else does)*
+_(and why it matters, even if nothing else does)_
 
-When I failed JEE for the last time, I wasn’t just grieving a test.
-I was mourning a version of myself I thought I’d become.
+When I failed JEE for the last time, I wasn’t just grieving a test. I was mourning a **version of myself** I thought I’d become.  
 
-In that stillness, when motivation became meaningless, I realized something quieter might survive ambition: ritual.
+In that stillness, when motivation became meaningless, I realized something quieter might survive ambition: **ritual**.
 
-*grain* is not a productivity app. It’s a companion for the slow, deliberate act of continuing.
-It runs in your terminal. It doesn’t sync. It doesn’t push notifications or pretend to be your friend.
-It just counts—one hour, one credit at a time.
+  
 
-You earn 90 credits a week. Surplus becomes your break time. There are no hacks, no gamification. Just the quiet math of effort and rest.
+*grain* is not a productivity app. It’s a **companion** for the slow, deliberate act of continuing. It runs in your terminal. It doesn’t sync. It doesn’t push notifications or pretend to be your friend.
 
-Because when everything else falls apart, the only question worth answering is: *can I still show up?*
+It just counts—**one hour, one credit at a time**.
 
-And *grain* answers, without fanfare: *yes. once more.*
+You earn **90 credits a week**. Surplus becomes your break time. There are no hacks, no gamification. Just the **quiet math** of effort and rest.
+
+
+Because when everything else falls apart, the only question worth answering is: _can I still show up?_
+
+  
+
+And **grain** answers, without fanfare: **yes. once more.**
 
 ## Philosophy
 
